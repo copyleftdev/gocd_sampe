@@ -7,3 +7,4 @@ py==1.7.0
 pytest==4.0.1
 pytest-cov==2.6.0
 six==1.11.0
+pytest-cov
