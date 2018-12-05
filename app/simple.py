@@ -7,3 +7,6 @@ class Letters(object):
 
     def C(self):
         return "C"
+
+    def D(self):
+        return "D"
