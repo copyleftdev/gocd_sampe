@@ -18,6 +18,10 @@ class TestSimpleClassLetterMethods(unittest.TestCase):
         tv = self.av.C()
         self.assertEqual(tv, "C")
 
+    def test_d_returns_string_d(self):
+        tv = self.av.D()
+        self.assertEqual(tv, "D")
+
 
 if __name__ == "__main__":
     unittest.main()
